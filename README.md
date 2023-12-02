@@ -772,7 +772,11 @@ Love them or hate them, Impact Factors are one of the main ways in which many sc
 </table>
 
 ## Methodology
-We computed 2022 two-year impact factors by collecting all full papers published in the main track of a given venue in 2020 and 2021 and reporting the average number of times these articles were cited in 2022. The citable items were taken from the official proceedings of the respective conferences. Citation counts were determined via Google Scholar.
+The selection of conferences for this study is based on the list of most impactful international CS venues according to [https://csrankings.org](csrankings.org) (CSR) and the CORE Computing Research and Education ranking. CSR is a crowdsourced community project of CS faculty members tracking the publication output of CS departments and individual researchers in the leading conferences. CORE directly assigns letter grades to conferences. Both platforms are based on the contributions of hundreds of senior faculty-level volunteers around the globe. We included any CS conference listed on CSR (n=77), as well as those that received the highest ranking of A* on CORE (n=60). In total 88 conferences were included, with the majority satisfying both requirements (n=49).
+
+For the included conferences, we computed two-year impact factors for 2022. This process requires collecting all articles published in a given conference in the two preceding years, i.e., in 2020 and 2021 and calculating the average number of citations each article received by any article published in the calendar year 2022.
+
+We included all main-track articles (i.e., no extended abstracts, demonstrators, etc.) from the official proceedings and collected 2022 citation counts via Google Scholar. This methodology corresponds to the process employed by Clarivate, Thomson Reuters and others to compute journal impact factors. We adopted CSR's grouping of conferences into fields (AI, Systems, Theory, and Interdisciplinary) and research areas and manually incorporated those conferences only ranked by CORE into the same taxonomy.
 
 Acceptance rates for 2020 and 2021 were obtained from the official conference websites and were averaged to obtain a global estimate of venue selectiveness.
 
@@ -780,7 +784,7 @@ Acceptance rates for 2020 and 2021 were obtained from the official conference we
 While we followed the official methodology used by Clarivate, Thomson-Reuters and Co, you should be aware of some potential differences. Most notably, where traditional publishing houses will only consider "indexed journals" our counts based on Google Scholar are more inclusive and will tally MS theses, preprints, etc. when counting citation numbers.
 
 ## Read the full article
-For more details on setup and findings, have a look at the article: <a href="https://arxiv.org/abs/2310.08037">https://arxiv.org/abs/2310.08037</a>.
+For more details on setup and findings, have a look at the article: [https://arxiv.org/abs/2310.08037"](https://arxiv.org/abs/2310.08037).
 								
 ```
 @article{eickhoff2023impact,
