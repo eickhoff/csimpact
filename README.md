@@ -770,3 +770,23 @@ Love them or hate them, Impact Factors are one of the main ways in which many sc
     </tr>
   </tbody>
 </table>
+
+## Methodology
+We computed 2022 two-year impact factors by collecting all full papers published in the main track of a given venue in 2020 and 2021 and reporting the average number of times these articles were cited in 2022. The citable items were taken from the official proceedings of the respective conferences. Citation counts were determined via Google Scholar.
+
+Acceptance rates for 2020 and 2021 were obtained from the official conference websites and were averaged to obtain a global estimate of venue selectiveness.
+
+## Limitations
+While we followed the official methodology used by Clarivate, Thomson-Reuters and Co, you should be aware of some potential differences. Most notably, where traditional publishing houses will only consider "indexed journals" our counts based on Google Scholar are more inclusive and will tally MS theses, preprints, etc. when counting citation numbers.
+
+## Read the full article
+For more details on setup and findings, have a look at the article: <a href="https://arxiv.org/abs/2310.08037">https://arxiv.org/abs/2310.08037</a>.
+								
+```
+@article{eickhoff2023impact,
+  title={Impact Factors for Computer Science Conferences},
+  author={Eickhoff, Carsten},
+  journal={arXiv preprint arXiv:2310.08037},
+  year={2023}
+}
+```
