@@ -768,6 +768,14 @@ Love them or hate them, Impact Factors are one of the main ways in which many sc
       <td>20%</td>
       <td>AI</td>
     </tr>
+    <tr>
+      <td>WWW</td>
+      <td>12.99</td>
+      <td>7</td>
+      <td>574</td>
+      <td>19.9%</td>
+      <td>AI</td>
+    </tr>
   </tbody>
 </table>
 
