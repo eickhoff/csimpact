@@ -776,7 +776,7 @@ The selection of conferences for this study is based on the list of most impactf
 
 For the included conferences, we computed two-year impact factors for 2022. This process requires collecting all articles published in a given conference in the two preceding years, i.e., in 2020 and 2021 and calculating the average number of citations each article received by any article published in the calendar year 2022.
 
-We included all main-track articles (i.e., no extended abstracts, demonstrators, etc.) from the official proceedings and collected 2022 citation counts via Google Scholar. This methodology corresponds to the process employed by Clarivate, Thomson Reuters and others to compute journal impact factors. We adopted CSR's grouping of conferences into fields (AI, Systems, Theory, and Interdisciplinary) and research areas and manually incorporated those conferences only ranked by CORE into the same taxonomy.
+We included all (n > 40,000) main-track articles (i.e., no extended abstracts, demonstrators, etc.) from the official proceedings and collected 2022 citation counts via Google Scholar. This methodology corresponds to the process employed by Clarivate, Thomson Reuters and others to compute journal impact factors. We adopted CSR's grouping of conferences into fields (AI, Systems, Theory, and Interdisciplinary) and research areas and manually incorporated those conferences only ranked by CORE into the same taxonomy.
 
 Acceptance rates for 2020 and 2021 were obtained from the official conference websites and were averaged to obtain a global estimate of venue selectiveness.
 
