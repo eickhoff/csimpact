@@ -792,7 +792,7 @@ Acceptance rates for 2020 and 2021 were obtained from the official conference we
 While we followed the official methodology used by Clarivate, Thomson-Reuters and Co, you should be aware of some potential differences. Most notably, where traditional publishing houses will only consider "indexed journals" our counts based on Google Scholar are more inclusive and will tally MS theses, preprints, etc. when counting citation numbers.
 
 ## Read the full article
-For more details on setup and findings, have a look at the article: [https://arxiv.org/abs/2310.08037"](https://arxiv.org/abs/2310.08037).
+For more details on setup and findings, have a look at the article: [https://arxiv.org/abs/2310.08037](https://arxiv.org/abs/2310.08037).
 								
 ```
 @article{eickhoff2023impact,
