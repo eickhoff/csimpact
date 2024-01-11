@@ -145,6 +145,14 @@ Love them or hate them, Impact Factors are one of the main ways in which many sc
       <td>Systems</td>
     </tr>
     <tr>
+      <td>EACL</td>
+      <td>11.5</td>
+      <td>5</td>
+      <td>?</td>
+      <td>?</td>
+      <td>AI</td>
+    </tr>
+    <tr>
       <td>EC</td>
       <td>7.32</td>
       <td>5</td>
