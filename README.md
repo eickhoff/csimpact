@@ -149,7 +149,7 @@ Love them or hate them, Impact Factors are one of the main ways in which many sc
       <td>11.5</td>
       <td>5</td>
       <td>326</td>
-      <td>24.7</td>
+      <td>24.7%</td>
       <td>AI</td>
     </tr>
     <tr>
